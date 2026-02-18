@@ -1,14 +1,14 @@
 ## Original Repositories
 
-- **322** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
-- **55** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online linguistic tool for generating phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
+- **323** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **56** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online linguistic tool for generating phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
 - **52** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **51** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Qieyun system
 - **46** [nk2028/rime-tupa](https://github.com/nk2028/rime-tupa): Rime TUPA input schema | rime 切韻拼音輸入方案
 - **44** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A tool to add Putonghua pronunciations in IPA form on Chinese texts
 - **21** [nk2028/yitizi](https://github.com/nk2028/yitizi): Input a Chinese character and get all of its variant forms
 - **20** [nk2028/tshet-uinh-data](https://github.com/nk2028/tshet-uinh-data): Machine-readable data extracted from ancient documents of the Qieyun system
-- **17** [nk2028/yindian](https://github.com/nk2028/yindian): Yindian (音典) is a website that comprehensively catalogs the pronunciations of Chinese characters
+- **18** [nk2028/yindian](https://github.com/nk2028/yindian): Yindian (音典) is a website that comprehensively catalogs the pronunciations of Chinese characters
 - **16** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): 漢語常用字詞表
 - **16** [nk2028/tshet-uinh-images](https://github.com/nk2028/tshet-uinh-images): 切韻系韻書及韻圖書影 Images of ancient documents of the Qieyun system
 - **14** [nk2028/opencc-data](https://github.com/nk2028/opencc-data): A collection of word lists for Simplified and Traditional Chinese conversions from the OpenCC project
@@ -17,16 +17,16 @@
 - **10** [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source): Dictionary of Middle Chinese
 - **9** [nk2028/tshet-uinh-fanqie](https://github.com/nk2028/tshet-uinh-fanqie): An automated fanqie tool based on the Qieyun system
 - **9** [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
+- **7** [nk2028/qieyun-restored](https://github.com/nk2028/qieyun-restored): Restored Qieyun and other data from Fujita (2017; 2023)
 - **7** [nk2028/sino-korean-readings](https://github.com/nk2028/sino-korean-readings): Database of Sino-Korean Readings (mainly collected from the 15th-16th centuries)
 - **7** [nk2028/tshet-uinh-tools](https://github.com/nk2028/tshet-uinh-tools): A tool to find the Chinese characters by phonological expressions
 - **7** [nk2028/zhongyuan-data](https://github.com/nk2028/zhongyuan-data): A database of Zhongyuan Yinyun (中原音韻) series
 - **6** [nk2028/ipa-practise](https://github.com/nk2028/ipa-practise): Online IPA Practice System
 - **6** [nk2028/menggu-ziyun-data](https://github.com/nk2028/menggu-ziyun-data): A database of Menggu Ziyun (蒙古字韻)
-- **6** [nk2028/qieyun-restored](https://github.com/nk2028/qieyun-restored): Restored Qieyun and other data from Fujita (2017; 2023)
 - **6** [nk2028/to-middle-chinese](https://github.com/nk2028/to-middle-chinese): 中古漢語自動標註工具 Middle Chinese Pronunciation Automatic Labeling Tool
 - **6** [nk2028/tshet-uinh-extrapolation-tool](https://github.com/nk2028/tshet-uinh-extrapolation-tool): A tool to find the laws of sound change of post-Qieyun phonological systems
+- **6** [nk2028/yindian-server](https://github.com/nk2028/yindian-server): Server of the Yindian (Chinese Character Pronunciation Dictionary) Web App
 - **5** [nk2028/tupa-parser](https://github.com/nk2028/tupa-parser): 切韻拼音解析為音韻地位
-- **5** [nk2028/yindian-server](https://github.com/nk2028/yindian-server): Server of the Yindian (Chinese Character Pronunciation Dictionary) Web App
 - **4** [nk2028/lzh-collection](https://github.com/nk2028/lzh-collection): A repository dedicated to preserving and promoting the cultural heritage of China and East Asia through the digitization and preservation of classical Chinese text
 - **4** [nk2028/ORCHESTRA-dataset](https://github.com/nk2028/ORCHESTRA-dataset): ORCHESTRA is a comprehensive dataset of classical Chinese poetry, with data sourced from SouYun Website
 - **3** [nk2028/opencc-web](https://github.com/nk2028/opencc-web): A webpage for OpenCC conversions
@@ -40,7 +40,7 @@
 - **1** [nk2028/obsolete-romanizations-examples](https://github.com/nk2028/obsolete-romanizations-examples): JavaScript code examples to generate obsolete romanizations of the Qieyun system using TshetUinh.js
 - **1** [nk2028/rime-utils-python](https://github.com/nk2028/rime-utils-python): Utilities for parsing Rime dictionaries
 - **1** [nk2028/uinh-kyaengh-js](https://github.com/nk2028/uinh-kyaengh-js): A JavaScript library for working with 韻鏡系韻圖 (Yunjing-type rime tables)
-- **0** [nk2028/.github_bak](https://github.com/nk2028/.github_bak): nk2028 GitHub profile
+- **0** [nk2028/.github](https://github.com/nk2028/.github): nk2028 GitHub profile
 - **0** [nk2028/qieyun](https://github.com/nk2028/qieyun): Web app for looking up characters in Guangyun (廣韻)
 - **0** [nk2028/rime-utils](https://github.com/nk2028/rime-utils): Utilities for operating rime configurations and dictionaries (under development)
 - **0** [nk2028/uyghur](https://github.com/nk2028/uyghur): Resources about the Uyghur language
