@@ -1,6 +1,6 @@
 ## Original Repositories
 
-- **329** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **330** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **59** [nk2028/tshet-uinh-autoderiver](https://github.com/nk2028/tshet-uinh-autoderiver): An online linguistic tool for generating phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
 - **53** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **53** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Qieyun system
@@ -47,8 +47,8 @@
 
 ## Archived Repositories
 
+- **12** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
 - **12** [nk2028/qieyun-sqlite](https://github.com/nk2028/qieyun-sqlite): A/an SQLite database for the Qieyun phonological system
-- **11** [nk2028/qieyun-python](https://github.com/nk2028/qieyun-python): A Python library for the Qieyun phonological system
 - **8** [nk2028/uinh-kyaengh-images](https://github.com/nk2028/uinh-kyaengh-images): 《韻鏡》書影 Uinh-kyaengh Images
 - **5** [nk2028/yonhkiengh](https://github.com/nk2028/yonhkiengh): A modern rhyme mirror based on Guangyun
 - **2** [nk2028/image-annotator](https://github.com/nk2028/image-annotator): Image annotator for historical linguistic data
@@ -68,5 +68,6 @@
 - **0** [nk2028/bnf_downloader](https://github.com/nk2028/bnf_downloader): Python script for downloading books from BnF Gallica
 - **0** [nk2028/HDIC](https://github.com/nk2028/HDIC): HDIC : Integrated Database of Hanzi Dictionaries in Early Japan
 - **0** [nk2028/HTML5-Chi-Square-Test-of-Independence-Calculator](https://github.com/nk2028/HTML5-Chi-Square-Test-of-Independence-Calculator): An HTML5 widget for Chi-Square Test of Independence.
+- **0** [nk2028/opencc-python](https://github.com/nk2028/opencc-python): OpenCC made with Python
 - **0** [nk2028/qieyun-autoderiver-legacy](https://github.com/nk2028/qieyun-autoderiver-legacy): An automatic extrapolation tool based on the Tshet-uinh phonological system (legacy version)
 - **0** [nk2028/ytenx](https://github.com/nk2028/ytenx): YonhTenxMyangx 韻典網
