@@ -1,6 +1,6 @@
 ## Original Repositories
 
-- **345** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
+- **347** [nk2028/opencc-js](https://github.com/nk2028/opencc-js): The JavaScript version of Open Chinese Convert (OpenCC)
 - **61** [nk2028/tshet-uinh-deriver](https://github.com/nk2028/tshet-uinh-deriver): An online linguistic tool for generating phonological reconstructions of the Qieyun system, as well as extrapolated historical and modern phonological systems derived from it
 - **55** [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples): JavaScript examples to generate the derivatives of the Qieyun system using TshetUinh.js
 - **53** [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js): A JavaScript library for the Qieyun system
@@ -61,7 +61,7 @@
 ## Forked Repositories
 
 - **6** [nk2028/Classical-Modern](https://github.com/nk2028/Classical-Modern): 非常全的文言文（古文）-现代文平行语料
-- **5** [nk2028/rime-kyonh](https://github.com/nk2028/rime-kyonh): rime 中古漢語拼音（古韻羅馬字版）方案
+- **6** [nk2028/rime-kyonh](https://github.com/nk2028/rime-kyonh): rime 中古漢語拼音（古韻羅馬字版）方案
 - **3** [nk2028/corpus](https://github.com/nk2028/corpus): 古典中文語料庫
 - **2** [nk2028/old-written-kanji](https://github.com/nk2028/old-written-kanji): 存放常見冩本異體字
 - **1** [nk2028/IPA-lab](https://github.com/nk2028/IPA-lab): 汉字-国际音标转换器
